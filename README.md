@@ -10,6 +10,19 @@
 <h3 align="center">
   Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth.
   </h3>
+  
+  <h3 align="center">
+  Oh yeah, and you could also play it in mobile.
+  </h3>
+
+
+---
+<h1 align="center">
+   How to play it
+</h1>
+
+<h3 align="center">On computer, use your mouse or trackpad 
+  </h3>
 
 
 ---
