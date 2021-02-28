@@ -23,7 +23,7 @@ How to play the game
 You can use your trackpad or mouse to move the 
  </h3>
 
- <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/field.png"/>
+ <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
 
 
 
