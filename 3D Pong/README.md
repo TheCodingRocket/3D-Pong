@@ -15,25 +15,23 @@
   Using three.js I was able to make a 3D version of the game. Using GameRunner a minimal framework for creating canvas games. the game was able to  provide a 60fps double buffered canvas game loop, allowing the game itself to concentrate on updating its game state whenever the update() method is called and rendering itself every time the draw() method is called.
 
 ---
-<h1 align="center">
-How to play the game
-</h1>
- 
- <h4 align="center">Desktop Controls</h4>
 
-* Click anywhere to move 
-* Use your Mouse to control the paddle
-* Use Mousewheel to dolly camera in or out
-* Click the 'Gravity' button to simulate gravity!
-* Click the 'Difficulty' button to cycle through the 3 difficulty levels
+ 
+ <h1 align="center">Desktop Controls</h1>
+
+<h3 align="center"> Click anywhere to move</h3>
+<h3 align="center"> Use your Mouse to control the paddle</h3>
+<h3 align="center"> Use Mousewheel to dolly camera in or out</h3>
+<h3 align ="center"> Click the 'Gravity' button to simulate gravity!</h3>
+<h3 align="center"> Click the 'Difficulty' button to cycle through the 3 difficulty levels</h3>
 <br><br>
 
-<h4 align="center">Mobile Controls</h4>
+<h1 align="center">Mobile Controls</h1>
 
-<h3 align="center">* Swipe to control paddle</h3>
-* Pinch to dolly camera in or out
-* Tap the 'Gravity' button to simulate gravity!
-* Tap the 'Difficulty' button to cycle through the 3 difficulty level
+<h3 align="center"> Swipe to control paddle</h3>
+<h3 align="center"> Pinch to dolly camera in or out</h3>
+<h3 align="center"> Tap the 'Gravity' button to simulate gravity!</h3>
+<h3 align="center"> Tap the 'Difficulty' button to cycle through the 3 difficulty level</h3>
 
  <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
 
