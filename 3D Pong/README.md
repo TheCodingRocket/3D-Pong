@@ -19,7 +19,7 @@
 How to play the game
 </h1>
  
- <h4>Desktop Controls</h4>
+ <h4 align="center">Desktop Controls</h4>
 
 * Click anywhere to move 
 * Use your Mouse to control the paddle
@@ -28,7 +28,7 @@ How to play the game
 * Click the 'Difficulty' button to cycle through the 3 difficulty levels
 <br><br>
 
-<h4>Mobile Controls</h4>
+<h4 align="center">Mobile Controls</h4>
 
 * Swipe to control paddle
 * Pinch to dolly camera in or out
