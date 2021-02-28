@@ -30,20 +30,10 @@ How to play the game
 
 <h4 align="center">Mobile Controls</h4>
 
-* Swipe to control paddle
+<h3 align="center">* Swipe to control paddle</h3>
 * Pinch to dolly camera in or out
 * Tap the 'Gravity' button to simulate gravity!
-* Tap the 'Difficulty' button to cycle through the 3 difficulty levels
-
- 
- 
- 
- 
- <h3 align="center">
-On computer, you can use your trackpad or mouse to move the paddle. You can also zoom in or zoom out by scrolling your mousewheel, or pinch your trackpad. There are 3 levels, Novice = Easy | Advanced = Hard | and Pong Lord = Extreme Hard. If you are secretly a pong grandmaster, then I would suggest the "Pong Lord" difficulty. But if you're like me, a complete garbage at pong, then I would suggest you should start at the easiest level, then build your way up to Pong Lord level. In order to win, you have to get 5 points. If the computer gets the 5 points first, you lose. 
- </h3>
- 
- <h3 align="center">On mobile, use your fingers to swipe the paddle. You can also pinch to adjust the height of the view. = Zoom in or Zoom out, whatever that suits you best. One more thing, if you want gravity, just toggle the gravity button. It basically just keeps the ball not floating randomly. It's basic physics. </h3>
+* Tap the 'Difficulty' button to cycle through the 3 difficulty level
 
  <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
 
