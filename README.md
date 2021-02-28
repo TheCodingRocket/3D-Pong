@@ -11,6 +11,8 @@
   Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth.
   </h3>
 
+ <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
+
 
 ---
 <h1 align="center">
@@ -25,17 +27,6 @@ I introduce the GameRunner. A minimal framework for creating canvas games, it pr
 <h3 align="center">Bouncing Balls
  I use the GameRunner framework to display a simple bouncing ball example, showing the separation of the GameRunner from the Pong game itself.</h3>
 
-
----
-<h1 align="center">
-Adjusting the speed
-</h1>
- 
- <h3 align="center">
- You can adjust the speed of the simulation. To go slower, hover your mouse / track pad to the left. To go faster and visualize the speed of light, hover your mouse or track pad to the right. But if you want the best of both worlds, hover your mouse / track pad to the middle, where you can see the stars and planets pass by.
- </h3>
-
- <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
 
 
 ---
