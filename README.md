@@ -11,21 +11,16 @@
   Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth.
   </h3>
 
- <img alt="Logo" src="https://raw.githubusercontent.com/TheCodingRocket/Starfield/main/images/space.webp"/>
-
 
 ---
 <h1 align="center">
-   How it was made
+   How the game was made
 </h1>
 
-<h3 align="center">
- The Game Runner
-I introduce the GameRunner. A minimal framework for creating canvas games, it provides a 60fps double buffered canvas game loop, allowing the game itself to concentrate on updating its game state whenever the update() method is called and rendering itself every time the draw() method is called.
+<h3 align="center">I introduce the GameRunner. A minimal framework for creating canvas games, it provides a 60fps double buffered canvas game loop, allowing the game itself to concentrate on updating its game state whenever the update() method is called and rendering itself every time the draw() method is called.
   </h3>
 
-<h3 align="center">Bouncing Balls
- I use the GameRunner framework to display a simple bouncing ball example, showing the separation of the GameRunner from the Pong game itself.</h3>
+<h3 align="center">I use the GameRunner framework to display a simple bouncing ball example, showing the separation of the GameRunner from the Pong game itself.</h3>
 
 
 
