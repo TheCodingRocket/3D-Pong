@@ -4,17 +4,26 @@
 
 
 <h1 align="center">
-   <a href="https://editor.p5js.org/4N4NT4/present/mIm8UBZct" target="_blank">The Starfield</a>
+   <a href="https://3dpong.netlify.app" target="_blank">3D Pong</a>
 </h1>
 
 <h3 align="center">
-  In physics, spacetime is any mathematical model which fuses the three dimensions of space and the one dimension of time into a single four-dimensional manifold. Spacetime diagrams can be used to visualize relativistic effects, such as why different observers perceive differently where and when events occur. 
+  Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth.
   </h3>
 
-<h3 align="center">
- Starfield was built to visualize the very core of the speed of light. how we perceive and see reality in a different point of view. The point of creating Starfield is to make simulations more accesible to everyone.
- </h3>
 
+---
+<h1 align="center">
+   How it was made
+</h1>
+
+<h3 align="center">
+ The Game Runner
+I introduce the GameRunner. A minimal framework for creating canvas games, it provides a 60fps double buffered canvas game loop, allowing the game itself to concentrate on updating its game state whenever the update() method is called and rendering itself every time the draw() method is called.
+  </h3>
+
+<h3 align="center">Bouncing Balls
+ I use the GameRunner framework to display a simple bouncing ball example, showing the separation of the GameRunner from the Pong game itself.</h3>
 
 
 ---
