@@ -17,12 +17,13 @@
 
 
 ---
-<h1 align="center">
+<h1>
    How to play it
 </h1>
 
-<h3 align="center">On computer, use your mouse or trackpad 
-  </h3>
+<h3>
+  On computer, use your mouse or trackpad 
+</h3>
 
 
 ---
