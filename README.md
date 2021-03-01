@@ -12,7 +12,7 @@
   </h3>
   
   <h3 align="center">
-  Using three.js I was able to make a 3D version of the game. Using GameRunner a minimal framework for creating canvas games. the game was able to  provide a 60fps double buffered canvas game loop, allowing the game itself to concentrate on updating its game state whenever the update() method is called and rendering itself every time the draw() method is called.
+  Using three.js I was able to make a 3D version of the game. And combining with GameRunner a minimal framework for creating canvas games. the game was able to  provide a 60fps double buffered canvas game loop, allowing the game itself to concentrate on updating its game state whenever the update() method is called and rendering itself every time the draw() method is called.
 
 ---
 <h1 align="center">
