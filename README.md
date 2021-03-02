@@ -58,4 +58,5 @@ On computer, you can use your trackpad or mouse to move the paddle. You can also
    Thats it you're finsihed, Have fun!
    ```
 <h1 align="center"> 
-  Special thanks to @
+  Special thanks to @erichlof for inspiring me to make this game
+</h1>
