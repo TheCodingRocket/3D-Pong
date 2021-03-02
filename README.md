@@ -57,6 +57,6 @@ On computer, you can use your trackpad or mouse to move the paddle. You can also
    ```sh
    Thats it you're finsihed, Have fun!
    ```
-<h1 align="center"> 
-  Special thanks to @erichlof for inspiring me to make this game
-</h1>
+<h3 align="center"> 
+  Special thanks to <a href="https://github.com/erichlof" target="_blank">erichlof</a>for inspiring me to make this game.
+</h3>
