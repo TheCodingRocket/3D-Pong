@@ -57,3 +57,5 @@ On computer, you can use your trackpad or mouse to move the paddle. You can also
    ```sh
    Thats it you're finsihed, Have fun!
    ```
+<h1 align="center"> 
+  Special thanks to @
